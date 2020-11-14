@@ -1,2 +1,2 @@
 # NetCoreExamples
-C# .NET Core Example
+C# .NET Core Examples
