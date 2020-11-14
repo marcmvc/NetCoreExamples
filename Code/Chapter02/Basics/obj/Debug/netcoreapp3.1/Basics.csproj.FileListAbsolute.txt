@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

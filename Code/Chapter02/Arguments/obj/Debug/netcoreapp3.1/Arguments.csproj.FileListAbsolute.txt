@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache

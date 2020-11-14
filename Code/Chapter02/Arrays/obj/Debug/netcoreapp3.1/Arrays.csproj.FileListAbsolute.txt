@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+D:\PERSONAL\RESEARCH\C#8\CODE EXAMPLES\Code\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache
