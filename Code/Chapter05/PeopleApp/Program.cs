@@ -130,9 +130,17 @@ namespace PeopleApp
 
             sam.FavoriteIceCream = "Chocolate Fudge";
             WriteLine($"Sam's favorite icecream flavor is {sam.FavoriteIceCream}.");
-            sam.FavoritePrimaryColor = "white";
+            sam.FavoritePrimaryColor = "blue";
             WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
 
+            // Indexers
+            sam.Children.Add(new Person {Name = "Charlie"});
+            sam.Children.Add(new Person {Name="Ella"});
+            WriteLine($"Sam's first child is {sam.Children[0].Name}");
+            WriteLine($"Sam's second child is {sam.Children[1].Name}");
+            // Using Indexers
+            WriteLine($"Sam's first child is {sam[0].Name}");
+            WriteLine($"Sam's second child is {sam[1].Name}");
         }
     }
 }
